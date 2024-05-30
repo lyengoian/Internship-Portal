@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+body{
+    background: rgb(204, 178, 229);
+}
+h1{
+    text-align: center;
+    color: white;
+}
+html {
+    font-family: 'Poiret One', cursive;
+  }
+.jobcard{
+    background-color: aliceblue;
+    width: 300px;
+    height: 155px;
+    display: flex;
+    flex-direction: column;
+    margin: 40px;
+    overflow:hidden;
+    border-radius: 40px;
+}
+.breadcrumb{
+    display: flex;
+    flex-direction: row;
+}
+.company{
+    padding: 10px;
+    text-align: center;
+    font-size: 1.4em;
+    background-color: bisque;
+}
+.back{
+    margin: auto;
+    margin-top: 10px;
+    width: 50px;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgb(237, 159, 218);
+}
+.back-left{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 50px;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: rgb(237, 159, 218);
+}
+.location{
+    padding: 7px;
+    padding-left: 50px;
+
+    font-size: larger;
+    background-color: blanchedalmond;
+}
+.role{
+    padding: 7px;
+    padding-left: 50px;
+    font-size: larger;
+    background-color: antiquewhite;
+}
+.open{
+    padding: 7px;
+    padding-left: 50px;
+    font-size: larger;
+    background-color: beige;
+}
+#alljobs{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 1200px
+}
+.pagination{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    width: 160px;
+    text-align: center;
+    overflow:hidden;
+    border-radius: 30%;  
+    list-style: none;
+    padding: 0px;
+    background-color: aliceblue;
+}  
+ol{
+    list-style: none;
+} 
+.breadcrumb-item{
+    margin: 5px;
+    text-decoration: none;
+}
+.page-item{
+    padding:7px;
+}
+.page-link{
+    text-decoration: none;
+    color: blueviolet;
+}
+.submit{
+    font-family: 'Poiret One', cursive;
+
+    background-color: rgb(152, 177, 156);
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 30% ;
+    width: 70px;
+    font-size: 1em;
+    height: 30px;
+
+}
+.reset{
+    background-color: rgb(177, 152, 165);
+    text-align: center;
+    border-radius: 40% ;
+    margin-top: 10px;
+    font-family: 'Poiret One', cursive;
+
+
+}
+.search{
+    background-color: rgb(255, 145, 202);
+    text-align: center;
+    border-radius: 40% ;
+    margin-top: 10px;
+    font-size: 1em;
+    font-family: 'Poiret One', cursive;
+
+
+}
+.buttonlink{
+    text-align: center;
+    font-size: larger;
+    padding-top: 15px;
+    width: 200px;
+    height: 40px;
+    background-color: azure;
+    border-radius: 40px;
+    margin: 10px;
+}
+.page-link{
+    text-decoration: none;
+}
+.row{
+    margin: auto;
+    width: fit-content;
+}
+table{
+    width: 500px;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+}
+th{
+    width: 120px;
+}
+td{
+    width: 50px;
+    text-align: center;
+}
+form{
+    margin: auto;
+    width: 190px;
+}
+.formdiv{
+    width: 200px;
+    margin: auto;
+}
+.formdivdiv{
+    margin-bottom: 10px;
+    width: 190px;
+}
+input{
+    font-family: 'Poiret One', cursive;
+    width: 150px;
+
+}
+select{
+    width: 150px;
+}
+.radios{
+    width: 10px;
+}
+.text-danger{
+    color: red;
+    font-size: 1.5em;
+    margin: auto;
+    width: 320px;
+}
+.text-success{
+    color: rgb(196, 252, 112);
+    font-size: 1.5em;
+    margin: auto;
+    width: 320px;
+}
+h3{
+    color: rgb(196, 252, 112);
+}
+#inspo{
+
+    width: 400px;
+    text-align: center;    
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
