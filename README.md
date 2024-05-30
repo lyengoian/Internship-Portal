@@ -1,4 +1,4 @@
-INTERNSHIP PORTAL - PROJECT SUMMARY
+INTERNSHIP PORTAL
 ===============
 
 Topic and Purpose
@@ -30,6 +30,8 @@ How the Site Works
 ### Home
 
 This is the first page of the website, where the user can select to either search through internships, add, delete, or edit an internship. At the bottom of the page is the quote searcher, meant to give the user a pick-me-up/inspiration. They will enter a keyword, and click search. If the keyword is valid, a bunch of quotes (up to 50) will pop up with the author's name, picture, and quote. Otherwise, a window alert will let the user know that the keyword isn't supported, and will provide a list of valid ones to choose from.
+<img width="1036" alt="image" src="https://github.com/lyengoian/Internship-Portal/assets/97694867/4f289c3b-3b66-413a-a7d7-967e0065405c">
+
 
 ### Search For Internships
 
